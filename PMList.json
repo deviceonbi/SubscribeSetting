@@ -9,5 +9,149 @@
     "alice.wang@advantech.com.tw",
     "tracy.su@advantech.com.tw",
     "jacksc.yang@advantech.com.tw"
+  ],
+  "RegionUserList": [
+    {
+    "name": "Africa",
+    "lang": {
+      "en-US": "Africa",
+      "zh-CN": "非洲",
+      "zh-TW": "非洲",
+      "ja-JP": "アフリカ",
+    },
+    "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "China",
+    "lang": {
+      "en-US": "China",
+      "zh-CN": "中國",
+      "zh-TW": "中国",
+      "ja-JP": "中国",
+    },
+    "users": ["xiaochen.shi@advantech.com.cn", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "Europe",
+    "lang": {
+      "en-US": "Europe",
+      "zh-CN": "欧洲",
+      "zh-TW": "歐洲",
+      "ja-JP": "ヨーロッパ",
+    },
+    "users": ["aeu.wise.iot@advantech.com", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "India",
+    "lang": {
+      "en-US": "India",
+      "zh-CN": "印度",
+      "zh-TW": "印度",
+      "ja-JP": "インド",
+    },
+    "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "Japan",
+    "lang": {
+      "en-US": "Japan",
+      "zh-CN": "日本",
+      "zh-TW": "日本",
+      "ja-JP": "日本",
+    },
+    "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "Korea",
+    "lang": {
+      "en-US": "Korea",
+      "zh-CN": "韩国",
+      "zh-TW": "韓國",
+      "ja-JP": "韓国",
+    },
+    "users": ["Eden.Sun@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "Middle East",
+    "lang": {
+      "en-US": "Middle East",
+      "zh-CN": "中东",
+      "zh-TW": "中東",
+      "ja-JP": "中東",
+    },
+    "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "North America",
+    "lang": {
+      "en-US": "North America",
+      "zh-CN": "北美洲",
+      "zh-TW": "北美洲",
+      "ja-JP": "北アメリカ",
+    },
+    "users": [
+      "waltm@advantech.com",
+      "Vivian.Tsou@advantech.com",
+      "tracy.su@advantech.com.tw",
+    ],
+  },
+  {
+    "name": "Oceania",
+    "lang": {
+      "en-US": "Oceania",
+      "zh-CN": "大洋洲",
+      "zh-TW": "大洋洲",
+      "ja-JP": "オセアニア",
+    },
+    "users": [
+      "SW.Tan@advantech.com",
+      "Eden.Sun@advantech.com.tw",
+      "tracy.su@advantech.com.tw",
+    ],
+  },
+  {
+    "name": "South America",
+    "lang": {
+      "en-US": "South America",
+      "zh-CN": "南美洲",
+      "zh-TW": "南美洲",
+      "ja-JP": "南アメリカ",
+    },
+    "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "South East Asia",
+    "lang": {
+      "en-US": "South East Asia",
+      "zh-CN": "东南亚",
+      "zh-TW": "東南亞",
+      "ja-JP": "東南アジア",
+    },
+    "users": [
+      "SW.Tan@advantech.com",
+      "Eden.Sun@advantech.com.tw",
+      "tracy.su@advantech.com.tw",
+    ],
+  },
+  {
+    "name": "Taiwan",
+    "lang": {
+      "en-US": "Taiwan",
+      "zh-CN": "台湾",
+      "zh-TW": "台灣",
+      "ja-JP": "台湾",
+    },
+    "users": ["Eden.Sun@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
+  {
+    "name": "Other",
+    "lang": {
+      "en-US": "Other",
+      "zh-CN": "其他地区",
+      "zh-TW": "其他地區",
+      "ja-JP": "その他の地域",
+    },
+    "users": ["Nick.Liu@advantech.com.tw", "tracy.su@advantech.com.tw"],
+  },
   ]
 }
