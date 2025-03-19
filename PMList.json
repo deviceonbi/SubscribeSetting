@@ -99,8 +99,10 @@
       },
       "name": "North America",
       "users": [
+        "Anders.Nielsen@advantech.com", 
+        "Jerry.Lian@advantech.com", 
+        "JosephM.Yang@advantech.com",
         "waltm@advantech.com",
-        "Vivian.Tsou@advantech.com",
         "tracy.su@advantech.com.tw"
       ]
     },
@@ -126,7 +128,7 @@
         "zh-TW": "南美洲"
       },
       "name": "South America",
-      "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"]
+      "users": ["Anders.Nielsen@advantech.com", "waltm@advantech.com", "Jerry.Lian@advantech.com", "JosephM.Yang@advantech.com", "Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"]
     },
     {
       "lang": {
