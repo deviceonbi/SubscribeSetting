@@ -2,13 +2,14 @@
   "PMList": [
     "Itsung.shen@advantech.com.tw",
     "Hao.Ning@advantech.com.cn",
-    "VickyYC.Lin@advantech.com.tw",
+    "Robert.Yin@advantech.com.tw",
     "Nick.Liu@advantech.com.tw",
     "sw.tan@advantech.com",
     "tracy.su@advantech.com.tw",
     "jacksc.yang@advantech.com.tw",
     "Eden.Sun@advantech.com.tw",
-    "alger.tan@advantech.com.tw"
+    "alger.tan@advantech.com.tw",
+    "Ching.Liao@advantech.com.tw"
   ],
   "LineTokens": [    
     "rSl9qBvoiZt4bKTz4FJvqKKQ0fM1aa9PUSq5AQlA6dD",
@@ -29,6 +30,22 @@
       },
       "name": "Africa",
       "users": ["Alger.Tan@advantech.com.tw", "tracy.su@advantech.com.tw"]
+    },
+    {
+      "lang": {
+        "en-US": "Central America and Caribbean",
+        "ja-JP": "中央アメリカおよびカリブ海",
+        "zh-CN": "中美洲和加勒比海",
+        "zh-TW": "中美洲與加勒比海"
+      },
+      "name": "Central America and Caribbean",
+      "users": [
+        "Anders.Nielsen@advantech.com", 
+        "Jerry.Lian@advantech.com", 
+        "JosephM.Yang@advantech.com",
+        "waltm@advantech.com",
+        "tracy.su@advantech.com.tw"
+      ]
     },
     {
       "lang": {
